@@ -1,0 +1,1 @@
+# dict-converter-for-rikaichan
